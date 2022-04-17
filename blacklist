@@ -1,1 +1,6 @@
-jable.com
+payload:  
+  # > myblacklist
+  - DOMAIN-KEYWORD,jable.com
+  - DOMAIN-KEYWORD,themoviedb
+  - DOMAIN-SUFFIX,flexpool.io
+  - DOMAIN-SUFFIX,ubuntu.com
